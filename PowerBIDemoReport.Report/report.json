@@ -60,7 +60,7 @@
           "z": 1000.00
         },
         {
-          "config": "{\"name\":\"1f114eee6882ced4ef5e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":134.67625899280574,\"y\":4.60431654676259,\"z\":10000,\"width\":247.4820143884892,\"height\":130.07194244604315,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Power BI\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"36pt\"}}]},{\"textRuns\":[{\"value\":\"Import Star\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}}}",
+          "config": "{\"name\":\"1f114eee6882ced4ef5e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":134.67625899280574,\"y\":4.60431654676259,\"z\":10000,\"width\":247.4820143884892,\"height\":130.07194244604315,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Power BI2\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"36pt\"}}]},{\"textRuns\":[{\"value\":\"Import Star\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"20pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}}}]}}}",
           "filters": "[]",
           "height": 130.07,
           "width": 247.48,
